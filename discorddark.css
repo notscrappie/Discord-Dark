@@ -123,8 +123,10 @@
 ::-webkit-scrollbar {
   border: none !important;
   width: var(--scrollbar-width) !important;
-  /* Hide the scroll bar so it fucking looks better. */
-  display: none;
+}
+
+.none-1rXy4P::-webkit-scrollbar {
+    display: none;
 }
 
 ::-webkit-scrollbar-track {
