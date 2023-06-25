@@ -123,6 +123,8 @@
 ::-webkit-scrollbar {
   border: none !important;
   width: var(--scrollbar-width) !important;
+  /* Hide the scroll bar so it fucking looks better. */
+  display: none;
 }
 
 ::-webkit-scrollbar-track {
@@ -143,6 +145,12 @@
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--scrollbar-hover-color) !important;
+}
+
+/* Extra Tweaks */
+/* Turns the Spotify player added by the SpotifyControls plugin black to match with the theme. */
+.theme-dark #vc-spotify-player {
+  background: #090909;
 }
 
 /* Misc */
