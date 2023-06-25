@@ -155,6 +155,11 @@
   background: #090909 !important;
 }
 
+/* Turns the username white so it's visible. */
+.userTagUsernameBase-267ALn {
+    color: white;
+}
+
 /* Misc */
 .inner-NQg18Y, .wrapper-1NNaWG.header-1ULbqO::after, .before_inlineCode-xn8Llh, .inlineContent-2YnoDy, .reaction-2A2y9y, .button-1_oXub.secondary-2bzKEX,
 .closeButton-3CiW2j, .channelHeader-DFRX8q, .wrapper-UvA17F, .stickerImageSection-7EUs8E, .gemIndicatorContainer-PqApbX, .button-1yVL_7, .inlineCode-2auMQi,
