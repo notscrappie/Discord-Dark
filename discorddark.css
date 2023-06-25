@@ -152,7 +152,7 @@
 /* Extra Tweaks */
 /* Turns the Spotify player added by the SpotifyControls plugin black to match with the theme. */
 .theme-dark #vc-spotify-player {
-  background: #090909;
+  background: #090909 !important;
 }
 
 /* Misc */
